@@ -1,0 +1,6 @@
+url=http(s)://yourmolgenisurl/api/
+account=youraccount
+password=yourpassword
+genes=MVK,MEFV,TNFRSF1A,NLRP3
+consensus_table=yourconsensustable
+classification_columns=classification1,classification2,classification3

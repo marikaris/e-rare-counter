@@ -1,0 +1,6 @@
+*.txt
+*.csv
+!config_example.txt
+__pycache__
+.idea
+consensusProteinUpdater.py
